@@ -1,14 +1,11 @@
 class RootController < ApplicationController
 
   def index
-    render :text => 'ok'
+    render :json => { status: :ok }
   end
 
   def ping
-    respond_to do |format|
-      format.html { render text: :pong}
-      format.json { render json: {ping: :pong} }
-    end    
+    render json: { status: :pong }
   end
 
   def search
@@ -61,10 +58,7 @@ class RootController < ApplicationController
     endTime = Time.new
     duration = endTime - startTime
     @results[:result_stats][:duration] = duration
-    respond_to do |format|
-      format.html # index.html.erb
-      format.json { render json: @results }
-    end
+    render json: @results
   end
 
 end
