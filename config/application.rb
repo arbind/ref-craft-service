@@ -66,3 +66,9 @@ module CraftService
     config.assets.version = '1.0'
   end
 end
+
+module CraftService
+  class Application < Rails::Application
+    Mongoid.logger.level = Logger::DEBUG
+  end
+end
