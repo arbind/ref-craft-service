@@ -35,7 +35,7 @@
             "url"=>{
                "urls"=>[
                   {
-                     "url"=>"http=>//jackhatescoffee.com",
+                     "url"=>"http://jackhatescoffee.com",
                      "expanded_url"=>nil,
                      "indices"=>[
                         0,
@@ -55,7 +55,7 @@
          "following"=>false,
          "friends_count"=>6,
          "geo_enabled"=>true,
-         "href"=>"http=>//twitter.com/jackhatescoffee",
+         "href"=>"http://twitter.com/jackhatescoffee",
          "is_protected"=>false,
          "is_translator"=>false,
          "lang"=>"en",
@@ -64,12 +64,12 @@
          "location_hash"=>nil,
          "name"=>"Jack Hates Coffee",
          "profile_background_color"=>"9AE4E8",
-         "profile_background_image_url"=>"http=>//a0.twimg.com/images/themes/theme16/bg.gif",
-         "profile_background_image_url_https"=>"https=>//si0.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_image_url"=>"http://a0.twimg.com/images/themes/theme16/bg.gif",
+         "profile_background_image_url_https"=>"https://si0.twimg.com/images/themes/theme16/bg.gif",
          "profile_background_tile"=>false,
-         "profile_image_url"=>"http=>//a0.twimg.com/profile_images/1508646678/FF_JHC_LOGO_08052011_7_FINAL_copy-1_normal.png",
-         "profile_image_url_bigger"=>"http=>//a0.twimg.com/profile_images/1508646678/FF_JHC_LOGO_08052011_7_FINAL_copy-1_reasonably_small.png",
-         "profile_image_url_https"=>"https=>//si0.twimg.com/profile_images/1508646678/FF_JHC_LOGO_08052011_7_FINAL_copy-1_normal.png",
+         "profile_image_url"=>"http://a0.twimg.com/profile_images/1508646678/FF_JHC_LOGO_08052011_7_FINAL_copy-1_normal.png",
+         "profile_image_url_bigger"=>"http://a0.twimg.com/profile_images/1508646678/FF_JHC_LOGO_08052011_7_FINAL_copy-1_reasonably_small.png",
+         "profile_image_url_https"=>"https://si0.twimg.com/profile_images/1508646678/FF_JHC_LOGO_08052011_7_FINAL_copy-1_normal.png",
          "profile_link_color"=>"0084B4",
          "profile_sidebar_border_color"=>"BDDCAD",
          "profile_sidebar_fill_color"=>"DDFFCC",
@@ -84,7 +84,7 @@
          "utc_offset"=>-21600,
          "verified"=>false,
          "web_craft_id"=>"360162778",
-         "website"=>"http=>//jackhatescoffee.com"
+         "website"=>"http://jackhatescoffee.com"
       },
       "yelp_craft"=>{
          "_id"=>"50a04de5caff500830000003",
@@ -101,8 +101,8 @@
          ],
          "description"=>nil,
          "display_phone"=>"+1-512-694-5600",
-         "href"=>"http=>//www.yelp.com/biz/jack-hates-coffee-austin",
-         "image_url"=>"http=>//s3-media4.ak.yelpcdn.com/bphoto/OhcIMSckUsbKBB5_YoxwEA/ms.jpg",
+         "href"=>"http://www.yelp.com/biz/jack-hates-coffee-austin",
+         "image_url"=>"http://s3-media4.ak.yelpcdn.com/bphoto/OhcIMSckUsbKBB5_YoxwEA/ms.jpg",
          "is_claimed"=>true,
          "is_closed"=>false,
          "location_hash"=>{
@@ -112,18 +112,18 @@
             "zip"=>nil,
             "country"=>nil
          },
-         "mobile_url"=>"http=>//m.yelp.com/biz/jack-hates-coffee-austin",
+         "mobile_url"=>"http://m.yelp.com/biz/jack-hates-coffee-austin",
          "name"=>"Jack Hates Coffee",
          "phone"=>"5126945600",
          "provider"=>"yelp",
          "rating"=>5.0,
-         "rating_img_url"=>"http=>//s3-media3.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/stars_5.png",
-         "rating_img_url_large"=>"http=>//s3-media1.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/stars_large_5.png",
-         "rating_img_url_small"=>"http=>//s3-media3.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/stars_small_5.png",
+         "rating_img_url"=>"http://s3-media3.ak.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/stars_5.png",
+         "rating_img_url_large"=>"http://s3-media1.ak.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/stars_large_5.png",
+         "rating_img_url_small"=>"http://s3-media3.ak.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/stars_small_5.png",
          "review_count"=>1,
          "username"=>nil,
          "web_craft_id"=>"jack-hates-coffee-austin",
-         "website"=>"http=>//jackhatescoffee.com/",
+         "website"=>"http://jackhatescoffee.com/",
          "yelpcraft_created_at"=>nil,
          "yelpcraft_updated_at"=>nil
       }
@@ -165,7 +165,7 @@
          ],
          "cover"=>{
             "cover_id"=>"10151124470861031",
-            "source"=>"http=>//sphotos-a.xx.fbcdn.net/hphotos-ash3/558348_10151124470861031_408522813_n.jpg",
+            "source"=>"http://sphotos-a.xx.fbcdn.net/hphotos-ash3/558348_10151124470861031_408522813_n.jpg",
             "offset_y"=>64
          },
          "culinary_team"=>"Louks\u2019 goal is to bring the most authentic and delicious Greek food to the streets of LA and Orange County. ",
@@ -175,7 +175,7 @@
          "first_name"=>nil,
          "gender"=>nil,
          "general_manager"=>nil,
-         "href"=>"http=>//www.facebook.com/loukstogo",
+         "href"=>"http://www.facebook.com/loukstogo",
          "is_published"=>true,
          "last_name"=>nil,
          "likes"=>1337,
@@ -224,7 +224,7 @@
          "talking_about_count"=>1,
          "username"=>"Loukstogo",
          "web_craft_id"=>"202641681030",
-         "website"=>"http=>//www.loukstogo.com"
+         "website"=>"http://www.loukstogo.com"
       },
       "twitter_craft"=>{
          "_id"=>"50a0493fcaff500750000226",
@@ -237,7 +237,7 @@
             "url"=>{
                "urls"=>[
                   {
-                     "url"=>"http=>//www.LouksToGo.com",
+                     "url"=>"http://www.LouksToGo.com",
                      "expanded_url"=>nil,
                      "indices"=>[
                         0,
@@ -257,7 +257,7 @@
          "following"=>false,
          "friends_count"=>2854,
          "geo_enabled"=>false,
-         "href"=>"http=>//twitter.com/loukstogo",
+         "href"=>"http://twitter.com/loukstogo",
          "is_protected"=>false,
          "is_translator"=>false,
          "lang"=>"en",
@@ -266,12 +266,12 @@
          "location_hash"=>nil,
          "name"=>"Louks To Go",
          "profile_background_color"=>"131516",
-         "profile_background_image_url"=>"http=>//a0.twimg.com/profile_background_images/64795568/twitter.jpg",
-         "profile_background_image_url_https"=>"https=>//si0.twimg.com/profile_background_images/64795568/twitter.jpg",
+         "profile_background_image_url"=>"http://a0.twimg.com/profile_background_images/64795568/twitter.jpg",
+         "profile_background_image_url_https"=>"https://si0.twimg.com/profile_background_images/64795568/twitter.jpg",
          "profile_background_tile"=>false,
-         "profile_image_url"=>"http=>//a0.twimg.com/profile_images/1124113309/Twitterlogo_bigger_normal.png",
-         "profile_image_url_bigger"=>"http=>//a0.twimg.com/profile_images/1124113309/Twitterlogo_bigger_reasonably_small.png",
-         "profile_image_url_https"=>"https=>//si0.twimg.com/profile_images/1124113309/Twitterlogo_bigger_normal.png",
+         "profile_image_url"=>"http://a0.twimg.com/profile_images/1124113309/Twitterlogo_bigger_normal.png",
+         "profile_image_url_bigger"=>"http://a0.twimg.com/profile_images/1124113309/Twitterlogo_bigger_reasonably_small.png",
+         "profile_image_url_https"=>"https://si0.twimg.com/profile_images/1124113309/Twitterlogo_bigger_normal.png",
          "profile_link_color"=>"990000",
          "profile_sidebar_border_color"=>"EEEEEE",
          "profile_sidebar_fill_color"=>"E3E3E3",
@@ -288,7 +288,7 @@
          "utc_offset"=>-28800,
          "verified"=>false,
          "web_craft_id"=>"85757363",
-         "website"=>"http=>//www.loukstogo.com"
+         "website"=>"http://www.loukstogo.com"
       },
       "yelp_craft"=>{
          "_id"=>"50a04de5caff500830000001",
@@ -305,8 +305,8 @@
          ],
          "description"=>nil,
          "display_phone"=>"+1-949-610-5577",
-         "href"=>"http=>//www.yelp.com/biz/louks-greek-gourmet-to-go-santa-monica",
-         "image_url"=>"http=>//s3-media2.ak.yelpcdn.com/bphoto/Nx8v_Py3SSakl_lzihe6tg/ms.jpg",
+         "href"=>"http://www.yelp.com/biz/louks-greek-gourmet-to-go-santa-monica",
+         "image_url"=>"http://s3-media2.ak.yelpcdn.com/bphoto/Nx8v_Py3SSakl_lzihe6tg/ms.jpg",
          "is_claimed"=>false,
          "is_closed"=>false,
          "location_hash"=>{
@@ -316,18 +316,18 @@
             "zip"=>"90404",
             "country"=>nil
          },
-         "mobile_url"=>"http=>//m.yelp.com/biz/louks-greek-gourmet-to-go-santa-monica",
+         "mobile_url"=>"http://m.yelp.com/biz/louks-greek-gourmet-to-go-santa-monica",
          "name"=>"Louks - Greek Gourmet To Go",
          "phone"=>"9496105577",
          "provider"=>"yelp",
          "rating"=>4.0,
-         "rating_img_url"=>"http=>//s3-media2.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/stars_4.png",
-         "rating_img_url_large"=>"http=>//s3-media4.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/stars_large_4.png",
-         "rating_img_url_small"=>"http=>//s3-media2.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/stars_small_4.png",
+         "rating_img_url"=>"http://s3-media2.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/stars_4.png",
+         "rating_img_url_large"=>"http://s3-media4.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/stars_large_4.png",
+         "rating_img_url_small"=>"http://s3-media2.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/stars_small_4.png",
          "review_count"=>26,
          "username"=>nil,
          "web_craft_id"=>"louks-greek-gourmet-to-go-santa-monica",
-         "website"=>"http=>//www.loukstogo.com/",
+         "website"=>"http://www.loukstogo.com/",
          "yelpcraft_created_at"=>nil,
          "yelpcraft_updated_at"=>nil
       }

@@ -24,7 +24,7 @@ class RootController < ApplicationController
     @geo_coordinates = [@lat, @lng] if @lat.present? and @lng.present?
 
     # search near geo
-    @crafts = Craft.near(@location, @radius).desc(:ranking_score) if @location.present?    
+    @crafts = Craft.near(@location, @radius).desc(:rank) if @location.present?    
     @crafts = Craft.near(@geo_coordinates, @radius).desc(:rank) if @geo_coordinates.present?
 
     # search for given query
@@ -40,6 +40,7 @@ class RootController < ApplicationController
     end
 
     @craft_list = @crafts.to_a if @crafts.present?
+    @craft_list ||= []
     @results = {
       result_stats: {
         total: @total_crafts_count,
