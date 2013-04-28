@@ -6,7 +6,7 @@ gem 'rails', '3.2.13'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 # github oauth access: http://hackbelt.tumblr.com/post/48504039141/access-private-github-repo-from-gem-or-npm
-gem 'craftoid', :git => 'https://02cd83b6af1d6bc8857867f3659f132d52635273:x-oauth-basic@github.com/arbind/craftoid.git'
+gem 'craftoid', :git => 'https://15a003963165165d6af014a824729f77e048c331:x-oauth-basic@github.com/arbind/craftoid.git'
 
 # Gems used only for assets and not required
 # in production environments by default.

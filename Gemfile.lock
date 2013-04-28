@@ -1,5 +1,5 @@
 GIT
-  remote: https://02cd83b6af1d6bc8857867f3659f132d52635273:x-oauth-basic@github.com/arbind/craftoid.git
+  remote: https://15a003963165165d6af014a824729f77e048c331:x-oauth-basic@github.com/arbind/craftoid.git
   revision: 2d56b55023f90162555f8a4fb07df89ec330c01d
   specs:
     craftoid (0.0.1)
@@ -55,7 +55,7 @@ GEM
     eventmachine (1.0.3)
     execjs (1.4.0)
       multi_json (~> 1.0)
-    geocoder (1.1.6)
+    geocoder (1.1.8)
     hike (1.2.2)
     i18n (0.6.1)
     journey (1.0.4)
@@ -98,8 +98,8 @@ GEM
     rake (10.0.4)
     rdoc (3.12.2)
       json (~> 1.4)
-    redis (3.0.3)
-    sass (3.2.7)
+    redis (3.0.4)
+    sass (3.2.8)
     sass-rails (3.2.6)
       railties (~> 3.2.0)
       sass (>= 3.1.10)
